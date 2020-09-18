@@ -36,11 +36,15 @@ router.put('/api/workouts/:id', ({body, params}, res) => {
 
     // Fill in .then() with call back function that takes result from db as input argument and send it back to browser
     .then(data =>{
+        console.log("this the data", data);
         res.json(data)
+
     })
 
     // Fill in .catch() with call back function that takes error as input argument and send it back to browser
     .catch(err => {
+        console.log ("error");
+        console.log(err);
         res.json(err);
     });
 });
