@@ -17,12 +17,14 @@ body {
 }
 
 nav {
-  background-color: #5793fd;
+  background-color: lightsalmon;
   color: #ffffff;
   height: 80px;
   padding: 10px;
   line-height: 3;
   font-size: 1.2rem;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 a,
@@ -96,7 +98,7 @@ input {
 }
 
 .wrapper {
-  background-color: #f2f8ff;
+  background-color: rgb(110, 134, 149);
   padding-bottom: 100px;
 }
 
