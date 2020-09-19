@@ -1,7 +1,9 @@
 # Fitness-Tracker
 
  ## Image
- ![ApplicationImage](Assets/ScreenShot.png)
+ ![Alt Text](public/Assets/fitnesstracker.gif)
+
+
 
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
@@ -48,6 +50,7 @@
   ### Contributors:
   Elham T.Hussain : https://github.com/ElhamFabe/Fitness-Tracker
 
+ ![ApplicationImage](public/Assets/fitness.png)
   
  ---
 
